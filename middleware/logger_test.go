@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/labstack/echo"
+	"github.com/crit/echo"
 	"github.com/stretchr/testify/assert"
 )
 

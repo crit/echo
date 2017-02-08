@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"strings"
 
+	"github.com/crit/echo"
 	"github.com/dgrijalva/jwt-go"
-	"github.com/labstack/echo"
 )
 
 type (
